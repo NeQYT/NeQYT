@@ -1,6 +1,6 @@
 ## Hi there, i'm NeQ! 👋
 
-I ❤️ playing and creating games 🎮
+❤️ I love playing and creating a new games! 🎮
 
 ### Connect with me:
 
