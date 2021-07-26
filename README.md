@@ -6,7 +6,6 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://i.imgur.com/ztI49Lo.png" />][youtube]
-
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://i.imgur.com/m84LU2W.png" />][twitter]
 
 <br  />
