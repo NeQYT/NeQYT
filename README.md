@@ -1,11 +1,6 @@
+## Hi there, i'm NeQ! 👋
 
-### Hi there, i'm NeQ! 👋
-
-## About me
-
-❤️ Gaming and creating a new content for them 🎮
-
-### Connect with me:
+### Connect with me ❤️:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
